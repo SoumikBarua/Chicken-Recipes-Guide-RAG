@@ -13,7 +13,29 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-
+     [X] Choose one domain for your unofficial guide
+     The domain is high protein chicken recipes.
+     
+     [X] Identify at least 10 specific source documents, pages and threads
+     For this domain, the ten sources will be the following:
+        1) HealthyFitnessMeals.com
+        2) Delish.com
+        3) Reddit.com
+        4) OhSnapMacros.com
+        5) TheProteinChef.co
+        6) OneBalancedLife.com
+        7) CallasCleaenEats.com
+        8) AmbitiousKitchen.com
+        9) SkinnyTaste.com
+        10) WellPlated.com
+    
+    [X] Skim your documents before you do anything else. Notice how they're structured: Are they short reviews or long guides? Are the key facts concentrated in one sentence or spread across paragraphs?
+    I noticed that these documents are structured in long guides. A lot of key facts are spread across paragraphs.
+    
+    [X] Write a 2–3 sentence summary of your domain and what makes this knowledge hard to find otherwise. You'll use this in your planning.md and README.
+    The knowledge can be hard to find in this domain because not every source includes detailed nutrition facts about the ingredients used in their recipes. This could mean that a chicken recipe, although high in protein, is also really high in calories. Also, how many grams of protein is considered high protein can also vary from person-to-person. Thus, sources may vary greatly in their usability for people looking for high protein chicken recipes.
+    
+    
 ---
 
 ## Document Sources
